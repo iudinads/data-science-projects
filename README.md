@@ -75,3 +75,5 @@
 - Matplotlib
 - Seaborn
 - PyTorch
+- Statsmodels
+- LightGBM
